@@ -110,3 +110,5 @@ print(luk.paycheck)
 
 luk.raise_paycheck(0.1)
 print(luk.paycheck)
+
+m =10
